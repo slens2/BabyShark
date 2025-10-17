@@ -1,0 +1,5 @@
+close,direction,score_total,quality_pct,fast_points,slow_points,bars_since_breakout,prev_m15_high
+100,LONG,20,95,10,5,1,100
+101,LONG,20,95,10,5,2,100
+99,LONG,8,90,10,5,5,100
+120,LONG,20,95,10,5,7,100
