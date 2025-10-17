@@ -1,0 +1,74 @@
+{
+  "active_profile": "fast_m15",
+  "symbols": [
+    "BTC/USDT", "ETH/USDT", "BNB/USDT", "SOL/USDT", "XRP/USDT", "ADA/USDT", "DOGE/USDT",
+    "TRX/USDT", "TON/USDT", "AVAX/USDT", "LINK/USDT", "LTC/USDT", "MATIC/USDT", "DOT/USDT",
+    "NEAR/USDT", "OP/USDT", "ARB/USDT", "ATOM/USDT", "APT/USDT", "SUI/USDT"
+  ],
+  "timeframes": ["15m"],
+  "weights_sets": {
+    "M15": {
+      "EMA200": 0.0, "MA50": 2.0, "Supertrend": 0.0, "MACD": 2.0, "RSI": 1.5,
+      "ADX": 0.0, "VWAP": 1.0, "Range": 0.8, "Chaikin_MF": 0.0,
+      "Volume_Spike": 1.2, "StochRSI": 1.8, "BollingerBands": 0.7
+    },
+    "H1": {
+      "EMA200": 3.0, "Supertrend": 2.5, "Range": 2.5
+    }
+  },
+  "thresholds": {
+    "M15": 11.0,
+    "H1": 8.0,
+    "neutral_bump": 0.0
+  },
+  "adx_h1_threshold": 28,
+  "regime": {
+    "normal": {
+      "adx_h1": 28, "heavy_hits": 3, "m15_threshold_pct": 0.85, "m5_snapshot_bars": 2,
+      "body_atr_mult": 1.3, "vol_ma20_mult": 1.8, "ema_buffer_atr": 0.2,
+      "anti_chase_atr_mult": 1.2, "direct_full": false
+    },
+    "strong": {
+      "adx_h1": 32, "heavy_hits": 4, "m15_threshold_pct": 0.75, "m5_snapshot_bars": 1,
+      "body_atr_mult": 1.2, "vol_ma20_mult": 1.6, "ema_buffer_atr": 0.15,
+      "anti_chase_atr_mult": 1.8, "direct_full": true
+    },
+    "sideway": {
+      "adx_h1": 18,
+      "heavy_hits": 1,
+      "m15_threshold_pct": 0.4,
+      "m5_snapshot_bars": 1,
+      "body_atr_mult": 0.7,
+      "vol_ma20_mult": 1.2,
+      "ema_buffer_atr": 0.1,
+      "anti_chase_atr_mult": 0.8,
+      "direct_full": false,
+      "sl_atr_mult": 0.9,
+      "tp_atr_mult": 0.8,
+      "max_pos_size_pct": 0.08,
+      "sideway_rsi_long": 40,
+      "sideway_rsi_short": 60,
+      "bb_band_mult": 2.0
+    }
+  },
+  "trading": {
+    "state_path": "trade_state.json",
+    "allow_market_fallback": true,
+    "slippage_guard_pct": 0.2,
+    "paper_balance_quote": 10000.0,
+    "probe_pct": 0.1,
+    "full_pct": 0.5,
+    "sl_atr_mult_probe": 1.0,
+    "sl_atr_mult_full": 1.2
+  },
+  "risk": {
+    "per_trade_risk_pct": 0.01,
+    "min_notional": 5.0,
+    "price_step": 0.0,
+    "qty_step": 0.0001
+  },
+  "discord": {
+    "enabled": true,
+    "webhook_url": "https://discord.com/api/webhooks/1417032780256120903/crK7-rRiqB_FmYwhBaM0pNYq-NCfscUSadM8P7AYRvY303QDR_tmhojNWXQU9YuAdhGm"
+  }
+}

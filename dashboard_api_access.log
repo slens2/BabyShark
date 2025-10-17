@@ -1,0 +1,450 @@
+2025-10-13 15:54:12.437337 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 15:54:12.923625 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 16:20:37.560602 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 16:20:37.979124 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-13 16:20:48.953539 - Exception: 401: Invalid or missing API Key
+2025-10-13 16:21:24.316309 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 16:21:24.504977 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-13 16:23:07.482983 - Exception: 401: Invalid or missing API Key
+2025-10-13 16:27:08.222967 - 83.86.83.86 - /dashboard/overview - curl/8.13.0
+ERROR 2025-10-13 16:37:52.472924 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-13 16:37:52.792787 - Exception: 401: Invalid or missing API Key
+2025-10-13 16:38:15.052159 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 16:38:15.292401 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 16:58:45.517681 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 16:58:45.980161 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 17:39:50.942152 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-13 17:39:51.244671 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 10:10:56.395414 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 11:54:39.609738 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 11:54:40.987629 - Exception: 401: Invalid or missing API Key
+2025-10-14 11:58:07.763564 - 83.86.83.86 - / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 11:58:07.913784 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 13:06:40.536324 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 13:30:23.923925 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 14:31:28.602868 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 14:32:50.807647 - Exception: 401: Invalid or missing API Key
+2025-10-14 14:36:34.842985 - 83.86.83.86 - / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 14:36:35.024353 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 14:38:13.101862 - Exception: 401: Invalid or missing API Key
+2025-10-14 14:43:20.654562 - 83.86.83.86 - / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 14:43:20.933118 - Exception: 401: Invalid or missing API Key
+2025-10-14 14:44:02.991212 - 127.0.0.1 - /api/health - curl/8.5.0
+2025-10-14 14:44:11.260171 - 83.86.83.86 - / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 14:44:11.370091 - Exception: 401: Invalid or missing API Key
+2025-10-14 14:44:16.159721 - 83.86.83.86 - / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 14:44:16.293114 - Exception: 401: Invalid or missing API Key
+2025-10-14 14:44:22.749876 - 127.0.0.1 - /api/health - curl/8.5.0
+2025-10-14 15:04:32.596571 - 83.86.83.86 - / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 15:04:32.837049 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 15:04:51.347497 - Exception: 401: Invalid or missing API Key
+2025-10-14 15:05:33.743585 - 118.70.177.155 - /api/health - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:57.319262 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:57.320330 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:58.527365 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:58.529687 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:58.710360 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:58.713830 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:58.912197 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:11:58.913397 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:12:00.201834 - 118.70.177.155 - /api/orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:12:01.727696 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:13:24.393226 - 118.70.177.155 - /api/settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:13:25.467704 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:13:26.238210 - 118.70.177.155 - /api/signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:13:26.843047 - 118.70.177.155 - /api/orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:13:28.341189 - 118.70.177.155 - /api/pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:13:29.263218 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:13:29.265324 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:16:05.247556 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:16:05.564093 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:07.796454 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:07.800934 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:08.705315 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:08.706500 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:09.344853 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:09.347985 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:28.069172 - 14.177.235.210 - /api/pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:28.923940 - 14.177.235.210 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:28.924481 - 14.177.235.210 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:21:30.640657 - 14.177.235.210 - /api/pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:23:00.565885 - 14.177.235.210 - /api/orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:23:04.291836 - 14.177.235.210 - /api/pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:25:36.730769 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:25:36.732204 - 118.70.177.155 - /api/dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:25:38.571014 - 118.70.177.155 - /api/pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:25:39.585799 - 118.70.177.155 - /api/signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:25:41.056565 - 118.70.177.155 - /api/alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:25:42.743195 - 118.70.177.155 - /api/signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:37.389533 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:37.982268 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:37.985375 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:39.687895 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:39.689007 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:40.508230 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:40.512535 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:44.921003 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:44.922272 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:28:46.259073 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:10.404388 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:10.407342 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:11.140173 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:11.143410 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:11.332957 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:11.335484 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:11.546986 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:11.551082 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:21.465240 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:22.149057 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:22.740295 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:23.206601 - 118.70.177.155 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:24.639653 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:25.780265 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:25.785676 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:26.571293 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:26.572606 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:26.791541 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:26.796930 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:27.403950 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:28.696749 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:31:29.935407 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:36:55.381290 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:36:55.383383 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:36:58.023117 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:36:58.626261 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:36:58.630178 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:36:59.063530 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:36:59.375583 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:37:00.084326 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:38:47.332638 - 83.86.83.86 - /docs - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:38:47.793939 - 83.86.83.86 - /openapi.json - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:21.211011 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:22.448633 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:24.609234 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:24.612578 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:25.488712 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:25.492077 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:25.690311 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:25.692395 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:26.487074 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:38.800254 - 14.177.235.210 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:41.945553 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:52.878758 - 14.177.235.210 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:44:53.533240 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:51:27.102985 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:51:27.105377 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:56:30.455625 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:56:30.989269 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:20.913782 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:20.915578 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.018424 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.019018 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.228862 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.230048 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.429522 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.432013 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.616027 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:22.622355 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:23.233449 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 15:59:24.148244 - 14.177.235.210 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:00:10.626090 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:00:11.413343 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:14.003517 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:22.760110 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:33.982914 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:33.985971 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:41.340040 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:44.019979 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:45.251762 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:46.029466 - 118.70.177.155 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:48.254504 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:49.961548 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:58.357559 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:06:58.360976 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:09:19.601987 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:09:21.753256 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:09:22.311786 - 118.70.177.155 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:09:26.042648 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 16:09:52.619321 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 16:12:19.422931 - Exception: 401: Invalid or missing API Key
+2025-10-14 16:22:39.643104 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:39.647114 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:43.284581 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:43.288249 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:43.837519 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:43.843383 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:44.583587 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:44.590562 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:44.855074 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:44.861704 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.156740 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.164600 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.391807 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.397987 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.651250 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.657692 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.823957 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:22:45.828079 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:01.808193 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:01.810773 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:02.662959 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:02.665311 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:03.632877 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:03.641989 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:03.867207 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:03.871991 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.051357 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.060169 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.236448 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.244199 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.435616 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.439311 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.601769 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:23:04.610200 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:33.978267 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:33.980412 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:34.363068 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:34.368567 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:35.298512 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:35.313428 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:35.555870 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:35.558837 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:35.850704 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:35.853595 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:36.125390 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:36.128747 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:37.192390 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:40.760081 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:40.761621 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:42.078818 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:44.141662 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:44.143838 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:45.065131 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:45.918479 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:46.488728 - 118.70.177.155 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:26:47.578307 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:27:24.298063 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:27:28.241376 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:27:28.242694 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 16:27:32.121987 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 16:28:36.511213 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 16:28:52.014784 - Exception: 401: Invalid or missing API Key
+2025-10-14 17:06:12.371519 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:12.373160 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:19.581740 - 14.177.235.210 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:21.516585 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:22.159877 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:29.241030 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:29.241512 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:31.360837 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:34.533429 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:34.536354 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:36.793302 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:37.714886 - 14.177.235.210 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:38.312393 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:06:39.027163 - 14.177.235.210 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:17.706516 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:17.709555 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:19.919633 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:32.248926 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:32.251886 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:34.528114 - 14.177.235.210 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:35.209637 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:36.271717 - 14.177.235.210 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:38.495848 - 14.177.235.210 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:39.115689 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:40.388325 - 14.177.235.210 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:41.576392 - 14.177.235.210 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:43.985880 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:45.585184 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:45.588541 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:46.339544 - 14.177.235.210 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:48.229955 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:12:48.233741 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:14:23.649348 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:14:55.636891 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:14:55.640376 - 14.177.235.210 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:14:57.532910 - 14.177.235.210 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:15:09.624534 - 14.177.235.210 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:15:19.756593 - 14.177.235.210 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:15:26.268254 - 14.177.235.210 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:42:25.942038 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:42:27.608196 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:42:29.765256 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:42:29.768425 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:48:19.270792 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:19.277421 - Exception: could not convert string to float: ''
+2025-10-14 17:48:20.610607 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:20.620217 - Exception: could not convert string to float: ''
+2025-10-14 17:48:21.342434 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:21.357296 - Exception: could not convert string to float: ''
+2025-10-14 17:48:21.805818 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:21.821919 - Exception: could not convert string to float: ''
+2025-10-14 17:48:22.292603 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:22.308257 - Exception: could not convert string to float: ''
+2025-10-14 17:48:23.011421 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:23.026507 - Exception: could not convert string to float: ''
+ERROR 2025-10-14 17:48:23.938152 - Exception: could not convert string to float: ''
+2025-10-14 17:48:53.199579 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:53.207334 - Exception: could not convert string to float: ''
+2025-10-14 17:48:53.988231 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:53.992543 - Exception: could not convert string to float: ''
+2025-10-14 17:48:54.378334 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:54.383489 - Exception: could not convert string to float: ''
+ERROR 2025-10-14 17:48:55.273631 - Exception: could not convert string to float: ''
+2025-10-14 17:48:55.943507 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:58.823588 - Exception: could not convert string to float: ''
+2025-10-14 17:48:59.819336 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:48:59.824617 - Exception: could not convert string to float: ''
+ERROR 2025-10-14 17:49:01.342813 - Exception: could not convert string to float: ''
+2025-10-14 17:49:01.896710 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:49:03.594107 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:49:04.099089 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:49:04.919302 - 118.70.177.155 - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:49:06.854199 - 118.70.177.155 - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:49:07.797294 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 17:49:14.692152 - 118.70.177.155 - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:49:26.781447 - Exception: could not convert string to float: ''
+2025-10-14 17:49:28.257407 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 17:49:28.259027 - Exception: could not convert string to float: ''
+ERROR 2025-10-14 21:16:07.839515 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-14 21:16:12.731494 - Exception: could not convert string to float: ''
+2025-10-14 21:16:12.785610 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:17.919491 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:05:17.921146 - Exception: could not convert string to float: ''
+ERROR 2025-10-14 22:05:20.182395 - Exception: could not convert string to float: ''
+2025-10-14 22:05:21.681205 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:23.321218 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:24.426278 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:27.785426 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:28.071554 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:28.813983 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:30.287051 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:30.724761 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:31.802478 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:05:32.508342 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:05:34.774318 - Exception: could not convert string to float: ''
+2025-10-14 22:05:35.508465 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:05:35.515394 - Exception: could not convert string to float: ''
+2025-10-14 22:05:39.700915 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:05:58.004329 - Exception: could not convert string to float: ''
+2025-10-14 22:05:58.747700 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:05:58.751412 - Exception: could not convert string to float: ''
+2025-10-14 22:21:28.452592 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:21:28.459024 - Exception: could not convert string to float: ''
+ERROR 2025-10-14 22:21:29.455008 - Exception: could not convert string to float: ''
+2025-10-14 22:21:29.456319 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:21:30.901252 - Exception: could not convert string to float: ''
+2025-10-14 22:21:32.350570 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:29:25.812813 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:29:25.815536 - Exception: could not convert string to float: ''
+ERROR 2025-10-14 22:29:27.537159 - Exception: could not convert string to float: ''
+2025-10-14 22:29:28.152926 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:29:29.927156 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:29:30.521337 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:29:31.715408 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:29:31.724753 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:29:31.871450 - Exception: could not convert string to float: ''
+2025-10-14 22:29:32.510011 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:29:32.514210 - Exception: could not convert string to float: ''
+2025-10-14 22:40:08.206049 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:40:08.210499 - Exception: could not convert string to float: ''
+2025-10-14 22:49:11.137551 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:11.144696 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:20.649079 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:20.661037 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:49:22.467227 - Exception: could not convert string to float: ''
+2025-10-14 22:49:24.584676 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:24.603813 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:49:25.254983 - Exception: could not convert string to float: ''
+2025-10-14 22:49:26.569022 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:28.238334 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:28.256691 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:31.474140 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:31.725920 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:32.870157 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-14 22:49:35.742807 - Exception: could not convert string to float: ''
+2025-10-14 22:49:37.039427 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 22:49:37.052671 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:38.264465 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:38.272078 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:39.424127 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:39.430498 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:40.991059 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:44.284185 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:44.303575 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:44.453744 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:44.472822 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:48.989075 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:50.085076 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:56.637588 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:56.646608 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:58.722946 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:58.723720 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:59.599841 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:59.618829 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:59.850662 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:00:59.869989 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:01.141547 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:01.161543 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:02.900506 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:09.447652 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:09.467620 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:11.302934 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:11.726937 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:13.163073 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /settings - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:14.680493 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:15.640415 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:15.647597 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:01:15.963955 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:56.676070 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:56.680761 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:58.139382 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:58.148717 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:58.317972 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:58.327529 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:58.578028 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-14 23:07:58.587709 - 2405:4802:1cae:bff0:853c:cebe:7379:ec2c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 06:30:40.120324 - 42.114.191.104 - /alerts - Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+2025-10-15 06:30:40.136092 - 42.114.191.104 - /dashboard - Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+2025-10-15 06:30:46.659711 - 42.114.191.104 - /alerts - Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+2025-10-15 06:30:46.675720 - 42.114.191.104 - /dashboard - Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+2025-10-15 06:30:53.512904 - 42.114.191.104 - /signals - Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+2025-10-15 16:23:52.528020 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 16:23:52.535010 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 16:23:55.665165 - 118.70.177.155 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 16:23:55.673701 - 118.70.177.155 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 16:23:57.837343 - 118.70.177.155 - /pnl - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 21:33:37.158196 - 2405:4802:1cae:bff0:40b7:c43f:b1b9:78b9 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 21:33:37.166926 - 2405:4802:1cae:bff0:40b7:c43f:b1b9:78b9 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 21:35:34.680498 - 2405:4802:1cae:bff0:40b7:c43f:b1b9:78b9 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-15 21:35:34.688502 - 2405:4802:1cae:bff0:40b7:c43f:b1b9:78b9 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:34:22.046584 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:34:22.054468 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:34:22.749235 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:34:22.749882 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:36.599015 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:36.604500 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:37.466651 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:37.473143 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:37.679766 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:37.686483 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:37.871704 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:37.873306 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:38.680027 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /orders - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:39.835098 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+2025-10-16 19:38:41.438634 - 2405:4802:1cae:bff0:1c14:e18b:58aa:3b0c - /signals - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Avast/139.0.0.0
+ERROR 2025-10-17 08:13:35.544942 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:36.017268 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:36.136867 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:36.704585 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:37.719925 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:38.276099 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:40.752828 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:42.616167 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:13:44.650573 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:17:50.617932 - Exception: 401: Invalid or missing API Key
+ERROR 2025-10-17 08:17:50.633663 - Exception: 401: Invalid or missing API Key
+2025-10-17 08:30:53.444569 - 103.4.251.67 - / - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+2025-10-17 08:52:22.359528 - 205.169.39.18 - /alerts - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+2025-10-17 08:52:22.397398 - 205.169.39.18 - /dashboard - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36

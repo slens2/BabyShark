@@ -1,0 +1,191 @@
+{
+  "BTC/USDT|15m|SHORT": {
+    "last_ts": 1758276258.9708679,
+    "count": 0
+  },
+  "ETH/USDT|15m|SHORT": {
+    "last_ts": 1758276263.828041,
+    "count": 0
+  },
+  "BNB/USDT|15m|LONG": {
+    "last_ts": 1758276268.7060635,
+    "count": 0
+  },
+  "SOL/USDT|15m|SHORT": {
+    "last_ts": 1758276273.6640515,
+    "count": 0
+  },
+  "XRP/USDT|15m|SHORT": {
+    "last_ts": 1758276278.4637253,
+    "count": 0
+  },
+  "ADA/USDT|15m|LONG": {
+    "last_ts": 1758273960.931901,
+    "count": 0
+  },
+  "DOGE/USDT|15m|SHORT": {
+    "last_ts": 1758276287.917066,
+    "count": 0
+  },
+  "TON/USDT|15m|SHORT": {
+    "last_ts": 1758276292.7939425,
+    "count": 0
+  },
+  "TRX/USDT|15m|LONG": {
+    "last_ts": 1758273975.7332823,
+    "count": 0
+  },
+  "LINK/USDT|15m|LONG": {
+    "last_ts": 1758274772.7327316,
+    "count": 0
+  },
+  "AVAX/USDT|15m|LONG": {
+    "last_ts": 1758276308.4641576,
+    "count": 0
+  },
+  "MATIC/USDT|15m|LONG": {
+    "last_ts": 1758276313.2089949,
+    "count": 0
+  },
+  "LTC/USDT|15m|LONG": {
+    "last_ts": 1758273995.8602083,
+    "count": 0
+  },
+  "DOT/USDT|15m|LONG": {
+    "last_ts": 1758274000.898952,
+    "count": 0
+  },
+  "SHIB/USDT|15m|SHORT": {
+    "last_ts": 1758276194.2195914,
+    "count": 0
+  },
+  "ADA/USDT|15m|SHORT": {
+    "last_ts": 1758276283.1755342,
+    "count": 0
+  },
+  "TRX/USDT|15m|SHORT": {
+    "last_ts": 1758276297.791877,
+    "count": 0
+  },
+  "LTC/USDT|15m|SHORT": {
+    "last_ts": 1758276183.9448125,
+    "count": 0
+  },
+  "DOT/USDT|15m|SHORT": {
+    "last_ts": 1758276189.5453591,
+    "count": 0
+  },
+  "LINK/USDT|15m|SHORT": {
+    "last_ts": 1758276302.6738384,
+    "count": 0
+  },
+  "AVAX/USDT|15m|SHORT": {
+    "last_ts": 1758275906.3198066,
+    "count": 0
+  },
+  "BTC/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "ETH/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "BNB/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "SOL/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "XRP/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "DOGE/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "TON/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "TRX/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "ADA/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "LINK/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "AVAX/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "SHIB/USDT|15m": {
+    "last_side": "SHORT",
+    "count": 62,
+    "last_ts": 1758539157.341429
+  },
+  "MATIC/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "DOT/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "LTC/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "ATOM/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "ARB/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "NEAR/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "OP/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "APT/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  },
+  "SUI/USDT|15m": {
+    "last_side": null,
+    "count": 0,
+    "last_ts": 1760671098.6782863
+  }
+}
